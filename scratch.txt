@@ -1,0 +1,3 @@
+sequelize model:create --name user --attributes email:string,name:string,password:string
+
+npm i dotenv ejs express express-ejs-layouts morgan pg sequelize
